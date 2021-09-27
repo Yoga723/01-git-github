@@ -1,4 +1,4 @@
-#Langkah untuk membuat repo 
+Langkah untuk membuat repo 
 1. Click tanda + pada bagian kanan atas github dan pilih New Repository 
 ![contoh](https://github.com/zimera-systems/petunjuk-git-github/blob/main/images/03/03-01-new-repo.png)
 
