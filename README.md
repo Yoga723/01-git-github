@@ -2,14 +2,7 @@
 # Langkah dan Penjelasan Praktik Github
 langkah-langkah dan penjelasan dari praktik
 
-Pertama, Untuk menginstall Git untuk windows dapat mengunduhnya di https://git-scm.com/downloads. 
-
-saat dijalankan maka akan tampil seperti ini 
-
-![Installer](https://github.com/zimera-systems/petunjuk-git-github/blob/main/images/01/install-01.jpg)
-
-Setelah itu anda tinggal memilih direktori installasi dan mengatur komponen seperti text editor(gunakan default saja kecuali anda memiliki preferensi sendiri)
-
+1. ![Instalasi](https://github.com/Yoga723/01-git-github/blob/main/Instalasi%20git)
 
 
 
