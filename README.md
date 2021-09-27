@@ -2,4 +2,4 @@
 # Langkah dan Penjelasan Praktik Github
 langkah-langkah dan penjelasan dari praktik
 
-hello world
+Pertama, Untuk menginstall Git untuk windows dapat mengunduhnya di https://git-scm.com/downloads. 
