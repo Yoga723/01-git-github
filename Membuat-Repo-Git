@@ -1,3 +1,6 @@
 Langkah untuk membuat repo 
 1. Click tanda + pada bagian kanan atas github dan pilih New Repository 
-![contoh](https://ichef.bbci.co.uk/news/976/cpsprodpb/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg)
+![contoh](https://github.com/zimera-systems/petunjuk-git-github/blob/main/images/03/03-01-new-repo.png)
+
+2. isi nama dan keterangan untuk reponya lalu pilih reponya private atau public
+3. click create repository dan repo anda langsung terbuat
