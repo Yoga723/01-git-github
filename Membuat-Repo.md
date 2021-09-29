@@ -18,9 +18,13 @@ $ git config --global user.name "Nama Anda di GitHub"
 
 $ git config --global user.email email@domain.tld
 
-untuk mengecek :
+untuk mengecek (gambar dibawah):
 
 $ git config --list
+
+![list](https://github.com/Yoga723/01-git-github/blob/main/bandicam%202021-09-29%2012-50-48-015.jpg)
+
+dilihat bahwa user.nama dan user.email sudah terkonfirmasi
 
 3. Masukkan command dibawah ini(untuk link anda hanya perlu mencopy link reponya):
 
